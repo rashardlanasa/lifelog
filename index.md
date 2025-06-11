@@ -9,6 +9,10 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3iVFJoxrYc?si=cOpXOvk_ab2c2JgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 trello for MAyor Bass @cityoflosangeles [MyTrello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass)
+# LIVE: ABCNewsLive
+[![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
+
+<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
 <blockquote class="reddit-embed-bq" style="height:240px" data-embed-height="240"><a href="https://www.reddit.com/r/AskReddit/comments/1l7f6rt/how_do_you_feel_about_700_marines_being_deployed/">How do you feel about 700 Marines being deployed to LA?</a><br> by<a href="https://www.reddit.com/user/Dense_Literature_199/">u/Dense_Literature_199</a> in<a href="https://www.reddit.com/r/AskReddit/">AskReddit</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 ![image](https://github.com/user-attachments/assets/5238e2fb-554f-4961-8e32-d7c439aec2c0)
@@ -28,10 +32,13 @@ Doxing (or doxxing) is the [action](https://www.thefire.org/research-learn/doxxi
 
 </div>
 
-# LIVE: ABCNewsLive
-[![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
 
-<iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
+## Kash Doll - Summer Sixteen [freestyle]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OiCYElX11Io?si=94prdG1TuxSuKL5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://audiomack.com/embed/kashbratz/album/trapped-in-the-dollhouse-1" scrolling="no" width="100%" height="400" frameborder="0" title="Trapped In The Dollhouse"></iframe>
+@blackgirlscode i found the whole thing where she start talking to me over songs @dhs-gov i did not rape her, but if she dont move right... she did it to me [...](https://youtu.be/166gWQeBQPY?list=PLL1h1su5XWVFUtxm5TTlWY9l-AXJrhuTB) 
+@ maybe im wrong about black and white suspense and i overly scienced sexuality [@nasa @whitehouse](https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse) @cityoflosangeles @stateofcalifornia 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/486509007&color=%23f29cff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/realniggarealshit" title="IMTHEHIGHPRIESTESS" target="_blank" style="color: #cccccc; text-decoration: none;">IMTHEHIGHPRIESTESS</a> · <a href="https://soundcloud.com/realniggarealshit/sets/trapped-in-the-dollhouse" title="Trapped In The Dollhouse" target="_blank" style="color: #cccccc; text-decoration: none;">Trapped In The Dollhouse</a></div> [LA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
 
 
 @stateofcalifornia @cityoflosangeles 
